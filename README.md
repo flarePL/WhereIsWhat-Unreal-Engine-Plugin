@@ -16,8 +16,6 @@ WhereIsWhat is currently available as a free Beta.
 Use it, share your feedback, and help shape the full release.
 The Beta will remain free until the official version is released.
 
-Feedback: support@piongames.com
-
 🔥 Why WhereIsWhat?
 
 Working on an Unreal Engine project often means spreading information across:
